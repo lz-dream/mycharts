@@ -3,11 +3,11 @@ entries:
   mynginx:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-18T15:06:07.637702535+08:00
+    created: 2019-06-18T15:15:04.78339327+08:00
     description: A Helm chart for Kubernetes
     digest: 923578d344295711e38408f1e25aa7c425428118db7aef78302a9022345e2d83
     name: mynginx
     urls:
-    - https://github.com/lz-dream/mynginx/mynginx-0.1.0.tgz
+    - https://github.com/lz-dream/mycharts/blob/master/mynginx/mynginx-0.1.0.tgz
     version: 0.1.0
-generated: 2019-06-18T15:06:07.636017519+08:00
+generated: 2019-06-18T15:15:04.781355526+08:00
